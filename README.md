@@ -1,4 +1,4 @@
-### Hi, I'm Tobi aka Tobsfit 👋
+### Hi, I'm Tobi 👋
 
 ### I'm a Developer, Athlete and Nerd!
 
