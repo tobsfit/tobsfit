@@ -7,14 +7,6 @@
 - 🏋 2021 Goals: Learn new techniques and technologies.
 - 🥕 Fun fact: I love carrot juice.
 
-### Connect with me:
-
-[<img align="left" alt="Tobsfit Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Tobsfit Xing" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
-[<img align="left" alt="Tobsfit" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
