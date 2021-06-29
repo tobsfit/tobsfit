@@ -1,11 +1,11 @@
-### Hi, I'm Tobi 👋
+### Hi, my name is Tobi 👋
 
 ### I'm a Developer, Athlete and Nerd!
 
-- 🚀 I’m currently learning THREE.js, GLSL and Cypress.
+- 🚀 I’m currently learning docker.
 - 🎎 I’m looking to collaborate with other developers.
-- 🏋 2020 Goals: Try out more tools and new techniques.
-- 🍋 Fun fact: I love carrot juice.
+- 🏋 2021 Goals: Learn new techniques and technologies.
+- 🥕 Fun fact: I love carrot juice.
 
 ### Connect with me:
 
@@ -38,15 +38,3 @@
 [facebook]: https://www.facebook.com/tobias.maier.921
 [instagram]: https://instagram.com/tobsfit
 [xing]: https://www.xing.com/profile/Tobias_Maier49/cv
-
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
