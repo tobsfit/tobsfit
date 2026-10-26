@@ -2,9 +2,8 @@
 
 ### I'm a Developer, Athlete and Nerd!
 
-- 🚀 I’m currently learning docker.
 - 🎎 I’m looking to collaborate with other developers.
-- 🏋 2021 Goals: Learn new techniques and technologies.
+- 🏋 Goals: Learn new techniques and technologies.
 - 🥕 Fun fact: I love carrot juice.
 
 ### Languages and Tools:
